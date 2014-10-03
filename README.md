@@ -1,3 +1,9 @@
+My Changes
+==============
+
+Updated effector to use 1/4 inch BSPT fitting:
+http://www.amazon.com/gp/product/B004M8T26Y
+
 Release status
 ==============
 
